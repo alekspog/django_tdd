@@ -4,3 +4,11 @@ virtualenv
 __pycache__
 *.pyc
 venv
+
+# Cache files for Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# Workspace files are user-specific
+*.sublime-workspace
